@@ -1,0 +1,1 @@
+CTRL + A -> Shift + Alt + F : reformat code;
