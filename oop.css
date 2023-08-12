@@ -4,3 +4,21 @@
     width: 100px;
     height: 100px;
 }
+
+#images {
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    text-align: center;
+   
+}
+
+figcaption {
+    text-align: center;
+}
+
