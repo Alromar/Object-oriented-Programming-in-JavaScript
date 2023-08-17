@@ -7,3 +7,5 @@ Alt + Shift + B = open in gekozen browser;
 Ctrl + N = nieuw bestand 
 
 Ctrl + Shift + ` = Terminal;
+
+to next line: END
